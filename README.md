@@ -37,5 +37,5 @@ Este projeto foi desenvolvido como parte da minha formação em **Análise e Des
 
 ### **Autores**
 
-* **Lucas Rosa** - [Seu Perfil do LinkedIn](https://www.linkedin.com/in/lucas-rosa-s/)
+* [**Lucas Rosa**](https://www.linkedin.com/in/lucas-rosa-s/)
 * **Lindayane Debom** 
